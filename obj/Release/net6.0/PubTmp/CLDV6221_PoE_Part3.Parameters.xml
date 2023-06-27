@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RideYouRentAppng" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Varsity\\2023\\Semester\ 1\\CLDV6211\\POE\\Part\ 3\\NEW\ AND\ FINAL\\CLDV6221_PoE_Part3_22062023_1635\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

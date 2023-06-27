@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CLDV6221_PoE_Part3
+build_property.RootNamespace = CLDV6221_PoE_Part3
+build_property.ProjectDir = C:\Varsity\2023\Semester 1\CLDV6211\POE\Part 3\NEW AND FINAL\TransferFolder\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\RideYouRent\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Varsity\2023\Semester 1\CLDV6211\POE\Part 3\NEW AND FINAL\TransferFolder\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\RideYouRent
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Car/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Car/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Car/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Car/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Car/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Driver/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Driver/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Driver/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Driver/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Driver/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Inspector/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Inspector/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Inspector/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Inspector/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Inspector/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zcGVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Rental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Rental/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Rental/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Rental/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Rental/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Return/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Return/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Return/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Return/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Return/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Varsity/2023/Semester 1/CLDV6211/POE/Part 3/NEW AND FINAL/TransferFolder/ST10108243_NikkiGordhan_CLDV6211_PoE_GR2/RideYouRent/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0tbbne2o3b
