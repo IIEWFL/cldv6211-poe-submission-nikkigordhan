@@ -1,0 +1,76 @@
+﻿@model IEnumerable<CLDV6221_PoE_Part3.Models.TblRental>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index Rental</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div>
+    <form asp-controller="Return" asp-action="Index">
+        <p>
+            Rental: <input type="text" name="SearchString" />
+            <input type="submit" value="Filter" />
+        </p>
+    </form>
+    @*the serch funtionality was taken and adapdted from Microsoft
+    https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-7.0
+    there are 18 contributors*@
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RentalFee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Driver)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Inspector)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentalFee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car.CarNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Driver.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inspector.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RentalId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RentalId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RentalId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CLDV6221_PoE_Part3Context",
+      "dynamicId": null
+    }
+  }
+}
