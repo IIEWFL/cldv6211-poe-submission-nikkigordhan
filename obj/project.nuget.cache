@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wU6JJukUwdrbMjswhzqpIJUN+BVbft97V46u7DpaAcmczaS3nzerSKGo06oLmwjhAqq3KyQzpx1jlvgtuEFkTQ==",
+  "dgSpecHash": "2ouyTvM7kw0qZMch/LkNiZSubZrY6b2qw+AF3Aam1P2WwpN4APLRcRRRHav8xgybas4XF6i2t7/Ky6z6+UqXKQ==",
   "success": true,
-  "projectFilePath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\POE\\Part 3\\NEW AND FINAL\\TransferFolder\\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\\RideYouRent\\CLDV6221_PoE_Part3.csproj",
+  "projectFilePath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\testdeploy\\CLDV6221_PoE_Part3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tris0\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tris0\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

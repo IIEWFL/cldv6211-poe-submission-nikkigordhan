@@ -11242,11 +11242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\POE\\Part 3\\NEW AND FINAL\\TransferFolder\\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\\RideYouRent\\CLDV6221_PoE_Part3.csproj",
+      "projectUniqueName": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\testdeploy\\CLDV6221_PoE_Part3.csproj",
       "projectName": "CLDV6221_PoE_Part3",
-      "projectPath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\POE\\Part 3\\NEW AND FINAL\\TransferFolder\\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\\RideYouRent\\CLDV6221_PoE_Part3.csproj",
+      "projectPath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\testdeploy\\CLDV6221_PoE_Part3.csproj",
       "packagesPath": "C:\\Users\\tris0\\.nuget\\packages\\",
-      "outputPath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\POE\\Part 3\\NEW AND FINAL\\TransferFolder\\ST10108243_NikkiGordhan_CLDV6211_PoE_GR2\\RideYouRent\\obj\\",
+      "outputPath": "C:\\Varsity\\2023\\Semester 1\\CLDV6211\\testdeploy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tris0\\AppData\\Roaming\\NuGet\\NuGet.Config",
